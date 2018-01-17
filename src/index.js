@@ -9,7 +9,7 @@ import VideoDetail from './components/videoDetail';
 
 import './styles/style.css';
 
-const API_KEY = 'AIzaSyCYB6__Nd4LCgKEfxIshfEWByk_Wnc-Ws0'
+const API_KEY = // PLACE YOUR GOOGLE API HERE
 
 
 class App extends Component {
